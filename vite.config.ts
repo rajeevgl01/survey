@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/3d-asset-survey/', // Add this line for GitHub Pages deployment
+  base: '/survey', // Add this line for GitHub Pages deployment
 });
